@@ -1,7 +1,7 @@
 #include "main.h"
 
 
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> refs/remotes/origin/master

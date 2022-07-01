@@ -3,7 +3,7 @@
 /**
  * main - causes an infinite loop
  * Return: 0
-<<<<<<< HEAD
+
  */
 =======
 */
@@ -15,7 +15,7 @@ int main(void)
 
 	printf("Infinite loop incoming :(\n");
 
-<<<<<<< HEAD
+
 	i = 0;
 
 	/**

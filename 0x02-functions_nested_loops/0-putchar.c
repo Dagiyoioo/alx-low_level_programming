@@ -1,6 +1,6 @@
 #include "main.h"
 
-<<<<<<< HEAD
+
 /**
 * main - Prints _putchar inside a space boola
 *

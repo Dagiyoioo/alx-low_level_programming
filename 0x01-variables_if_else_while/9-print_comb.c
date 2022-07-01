@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include "stdio.h"
 /**
  * main - Entry point
@@ -13,7 +13,7 @@
  */
 int main(void)
 {
-<<<<<<< HEAD
+
 int k;
 k = 48;
 while (k <= 57)

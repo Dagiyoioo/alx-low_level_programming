@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Debugging
 ## This is for fixing code bugs😀
 =======
