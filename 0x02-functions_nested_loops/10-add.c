@@ -1,10 +1,4 @@
 #include "main.h"
-
-
-
-=======
-
->>>>>>> refs/remotes/origin/master
 /**
  * add - prints the sum digit of a number
  *@n: number THAT WILL be testED using a function

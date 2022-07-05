@@ -1,20 +1,9 @@
 #include "main.h"
-
-
 /**
 * main - Prints _putchar inside a space boola
 *
 * Return: Always 0
 */
-=======
-
-/**
- * main - Prints _putchar
- *
- * Return: Always 0 (Success)
- */
->>>>>>> refs/remotes/origin/master
-
 int main(void)
 	{
 _putchar('_');
